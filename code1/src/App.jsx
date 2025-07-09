@@ -1,11 +1,11 @@
 
 import './App.css'
-import Counter from '../Counter'
+import Ludogame from './Ludogame'
 function App() {
 
   return (
     <>
-      <Counter/>
+      <Ludogame/>
     </>
   )
 }
