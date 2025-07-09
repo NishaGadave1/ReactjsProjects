@@ -1,15 +1,17 @@
 
 import './App.css'
+import Loginform from './LoginForm'
 // import Ludogame from './Ludogame'
 // import Counter from './Counter'
-import Joker from './Joker'
+// import Joker from './Joker'
 function App() {
 
   return (
     <>
       {/* <Ludogame/> */}
       {/* <Counter/> */}
-      <Joker/>
+      {/* <Joker/> */}
+      <Loginform/>
     </>
   )
 }
