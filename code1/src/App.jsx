@@ -1,9 +1,10 @@
 
 import './App.css'
-import Loginform from './LoginForm'
+// import Loginform from './LoginForm'
 // import Ludogame from './Ludogame'
 // import Counter from './Counter'
 // import Joker from './Joker'
+import Form from './Form'
 function App() {
 
   return (
@@ -11,7 +12,8 @@ function App() {
       {/* <Ludogame/> */}
       {/* <Counter/> */}
       {/* <Joker/> */}
-      <Loginform/>
+      {/* <Loginform/> */}
+      <Form/>
     </>
   )
 }
